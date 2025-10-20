@@ -1,0 +1,4 @@
+.author__avatar img {
+  border-radius: 50% !important;   /* full circle */
+  object-fit: cover;               /* crop to fill */
+}
